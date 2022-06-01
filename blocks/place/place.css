@@ -32,12 +32,13 @@
     }
   }
   
-  @media screen and (max-width: 320px) {
+  @media screen and (max-width: 600px) {
     .place {
       grid-template-columns: 100%;
       grid-template-rows: 35px fit-content 1fr;
       grid-template-areas:
       "title"
+      "url"
       "image"
       "paragraph";
       grid-row-gap: 50px;

@@ -5,3 +5,9 @@
   line-height: 12px;
   letter-spacing: 0.2rem;
   }
+
+@media screen and (max-width: 600px) {
+    .place__title {
+      margin: 0 0 12px 16px;
+    }
+  }
