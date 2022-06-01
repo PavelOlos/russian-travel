@@ -4,24 +4,12 @@
   line-height: 22px;
   font-weight: normal;
   text-align: center;
-  margin: 32px auto 245px;
-  }
-
-@media screen and (max-width: 1024px) {
-    .cover__subtitle {
-      margin: 32px auto 195px;
-    }
-  }
-
-@media screen and (max-width: 768px) {
-    .cover__subtitle {
-      margin: 32px auto 115px;
-    }
+  margin: 32px auto auto;
   }
 
 @media screen and (max-width: 320px) {
     .cover__subtitle {
-      margin: 16px auto 33px;
+      margin: 16px auto auto;
       max-width: 288px;
       font-size: 14px;
       line-height: 16px;
