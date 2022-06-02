@@ -32,7 +32,7 @@
     }
   }
   
-  @media screen and (max-width: 600px) {
+  @media screen and (max-width: 650px) {
     .place {
       grid-template-columns: 100%;
       grid-template-rows: 35px fit-content 1fr;

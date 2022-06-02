@@ -3,7 +3,7 @@
   grid-area: paragraph;
   }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 650px) {
     .place__paragraphs {
       margin: 0 0 0 16px;
     }
